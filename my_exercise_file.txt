@@ -1,0 +1,2 @@
+this isi the exercise i am just adding the text file locally and then im gonna create a remote repo on Github and then push the locqal repo changes to github 
+create a new file on git hub  and then pull this things back 
